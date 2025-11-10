@@ -337,7 +337,6 @@ backend/src/modules/
 - ✅ **Escalabilidad** - Preparado para migración a microservicios
 
 📖 **Ver documentación completa:** [ARCHITECTURE.md](./ARCHITECTURE.md)
-📖 **Ver defensa técnica:** [DEFENSA_ARQUITECTURA.md](./DEFENSA_ARQUITECTURA.md)
 
 ---
 
@@ -433,7 +432,6 @@ npm run test:watch
 |-----------|-------------|
 | [ARCHITECTURE.md](./ARCHITECTURE.md) | Arquitectura completa del sistema (2,348 líneas) |
 | [GETTING_STARTED.md](./GETTING_STARTED.md) | Guía de inicio para desarrolladores |
-| [DEFENSA_ARQUITECTURA.md](./DEFENSA_ARQUITECTURA.md) | Defensa técnica: Monolito vs Microservicios |
 | [CREDENTIALS.md](./CREDENTIALS.md) | Credenciales de todos los usuarios de prueba |
 | [backend/TESTS_SUMMARY.md](./backend/TESTS_SUMMARY.md) | Resumen completo de tests |
 
